@@ -1,0 +1,25 @@
+{
+  "name": "colaborativos-PWA-5IV7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArturoZ5/colaborativos-PWA-5IV7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArturoZ5/colaborativos-PWA-5IV7/issues"
+  },
+  "homepage": "https://github.com/ArturoZ5/colaborativos-PWA-5IV7#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mime-types": "^2.1.33",
+    "multer": "^1.4.3"
+  }
+}
